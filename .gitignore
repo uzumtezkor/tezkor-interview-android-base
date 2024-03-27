@@ -1,0 +1,11 @@
+# Android Studio
+.idea/
+!/.idea/codeStyles/
+local.properties
+
+# Gradle
+.gradle/
+build/
+
+# MacOS
+.DS_Store
